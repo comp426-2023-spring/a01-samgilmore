@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a01-samgilmore/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a01-samgilmore#readme"
+  "homepage": "https://github.com/comp426-2023-spring/a01-samgilmore#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
 }
